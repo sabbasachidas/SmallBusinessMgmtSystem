@@ -1,0 +1,27 @@
+﻿﻿@model Spectrum.Models.CustomerViewModel
+<table>
+    <tr>
+        <td>Sl</td>
+        <td>Code</td>
+        <td>Name</td>
+        <td>Address</td>
+        <td>Email</td>
+        <td>Contact</td>
+        <td>Loyalty Point</td>
+    </tr>
+    @{ int i = 1;}
+    @foreach (var customer in Model.Customers)
+    {
+        <tr>
+            <td>@(i++)</td>
+            <td>@customer.Code</td>
+            <td>@customer.Name</td>
+            <td>@customer.Address</td>
+            <td>@customer.Email</td>
+            <td>@customer.Contact</td>
+            <td>@customer.LoyaltyPoint</td>
+            <td>@Html.ActionLink("Edit", "Edit", "customer", new { Id = customer.Id }, null) </td>
+            <td>@Html.ActionLink("Delete", "Delete", "customer", new { Id = customer.Id }, null)</td>
+        </tr>
+    }
+</table>

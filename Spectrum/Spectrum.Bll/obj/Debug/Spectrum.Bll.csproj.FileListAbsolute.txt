@@ -1,0 +1,136 @@
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Bll.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Model.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.Repository.dll.config
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\Spectrum.DatabaseContext.dll.config
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\bin\Debug\EntityFramework.xml
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csprojAssemblyReference.cache
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CoreCompileInputs.cache
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.csproj.CopyComplete
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Bll\obj\Debug\Spectrum.Bll.pdb

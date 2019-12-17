@@ -1,0 +1,883 @@
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\Spectrum.dll.config
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\Spectrum.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\Spectrum.pdb
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\csc.exe
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\csc.rsp
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\csi.exe
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\csi.rsp
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\vbc.exe
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\EntityFramework.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Razor.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\EntityFramework.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Razor.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+G:\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+E:\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csc.rsp
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\csi.rsp
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\AutoMapper.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.ValueTuple.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Validation.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Razor.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.dll.config
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.pdb
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\csc.exe
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\csc.exe.config
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\csc.rsp
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\csi.exe
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\csi.exe.config
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\csi.rsp
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.AppContext.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Collections.Immutable.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Console.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.IO.Compression.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.IO.Pipes.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Reflection.Metadata.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.AccessControl.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.Claims.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.ValueTuple.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\vbc.exe
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\vbc.exe.config
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\vbc.rsp
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe
+F:\DOT NET\Final\Spectrum\Spectrum\bin\roslyn\VBCSCompiler.exe.config
+F:\DOT NET\Final\Spectrum\Spectrum\bin\AutoMapper.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\EntityFramework.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\EntityFramework.SqlServer.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Microsoft.Web.Infrastructure.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Bll.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Model.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.ValueTuple.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Helpers.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Mvc.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Razor.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Webpages.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Validation.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Repository.dll
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Bll.pdb
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.pdb
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.DatabaseContext.dll.config
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Model.pdb
+F:\DOT NET\Final\Spectrum\Spectrum\bin\AutoMapper.pdb
+F:\DOT NET\Final\Spectrum\Spectrum\bin\AutoMapper.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\EntityFramework.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\EntityFramework.SqlServer.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.ValueTuple.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Validation.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Razor.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Webpages.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Webpages.Deployment.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Webpages.Razor.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Helpers.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\System.Web.Mvc.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Repository.pdb
+F:\DOT NET\Final\Spectrum\Spectrum\bin\Spectrum.Repository.dll.config
+F:\DOT NET\Final\Spectrum\Spectrum\obj\Debug\Spectrum.csprojAssemblyReference.cache
+F:\DOT NET\Final\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CoreCompileInputs.cache
+F:\DOT NET\Final\Spectrum\Spectrum\obj\Debug\Spectrum.csproj.CopyComplete
+F:\DOT NET\Final\Spectrum\Spectrum\obj\Debug\Spectrum.dll
+F:\DOT NET\Final\Spectrum\Spectrum\obj\Debug\Spectrum.pdb

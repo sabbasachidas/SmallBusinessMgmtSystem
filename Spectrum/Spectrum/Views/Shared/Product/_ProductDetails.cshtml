@@ -1,0 +1,35 @@
+﻿
+@model Spectrum.Models.ProductViewModel
+<table class="table table-striped custab">
+    
+        <tr>
+            <th>SI</th>
+            <th>Code)</th>
+            <th>Name)</th>
+            <th>Reorderlevel)</th>
+            <th>Description)</th>
+            <th>CategoryId)</th>
+
+            <th>Action</th>
+        </tr>
+    
+
+    @{ int i = 1;}
+    @foreach (var item in Model.Products)
+    {
+        <tr>
+            <td>@(i++)</td>
+            <td> @item.Code</td>
+            <td> @item.Name</td>
+            <td> @item.Reorderlevel</td>
+            <td> @item.Description</td>
+            <td> @item.CategoryId</td>
+
+            <td class="text-center">
+
+                @Html.ActionLink("Update", "Update", new { id = item.Id })
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

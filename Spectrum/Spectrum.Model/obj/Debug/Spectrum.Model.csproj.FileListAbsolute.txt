@@ -1,0 +1,42 @@
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Model\bin\Debug\Spectrum.Model.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csprojAssemblyReference.cache
+F:\DOT NET\Final\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.csproj.CoreCompileInputs.cache
+F:\DOT NET\Final\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.dll
+F:\DOT NET\Final\Spectrum\Spectrum.Model\obj\Debug\Spectrum.Model.pdb

@@ -1,0 +1,75 @@
+﻿@model Spectrum.Models.CategoryViewModel
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Category</title>
+    <style>
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+        /*h2{
+            position: center;
+        }
+        h4{
+            position: center;
+        }*/
+    </style>
+</head>
+<body>
+    <div>
+        <h2>Small Business Management System</h2>
+        <h4>Add Category</h4>
+        <form method="post">
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Code)</td>
+                    <td>@Html.TextBoxFor(c => c.Code, @Model.Code) </td>
+                    <td>@Html.ValidationMessageFor(c => c.Code)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Name)</td>
+                    <td>@Html.TextBoxFor(c => c.Name, @Model.Name) </td>
+                    <td>@Html.ValidationMessageFor(c => c.Name)</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Delete" /></td>
+                    <td>
+                        @if (ViewBag.Message != null)
+                        {
+                            <h3>
+                                <b>
+                                    @ViewBag.Message;
+                                </b>
+                            </h3>
+                        }
+                    </td>
+                </tr>
+            </table>
+        </form>
+        @{
+            Html.RenderPartial("~/Views/Shared/Category/_CategoryDetails.cshtml", Model);
+        }
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

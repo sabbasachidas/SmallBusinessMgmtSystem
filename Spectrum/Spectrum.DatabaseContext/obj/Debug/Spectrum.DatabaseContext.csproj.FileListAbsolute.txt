@@ -1,0 +1,149 @@
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+F:\DOT NET\Dropbox\Web Project\spectrum\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+C:\Users\shibu barmon\Downloads\spectrum-master(1)\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Purchase.resources
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Purchase.resources
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Customer.resources
+C:\Users\shibu barmon\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.AddPurchase.resources
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Purchase.resources
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Customer.resources
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.AddPurchase.resources
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.sales.resources
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Purchase.resources
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Customer.resources
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.AddPurchase.resources
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.sales.resources
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+D:\asp.net\New folder\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.newpurchase.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Purchase.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Customer.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.AddPurchase.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.sales.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.newpurchase.resources
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb
+D:\sssss\spectrum-812\spectrum-mxcxvxvaster\spectrum-master\spectrum-master\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.abc.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll.config
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.dll
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.DatabaseContext.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.dll
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\Spectrum.Model.pdb
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csprojAssemblyReference.cache
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.CategoryAddToProduct.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Purchase.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.Customer.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.AddPurchase.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.sales.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.newpurchase.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.Migrations.abc.resources
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.GenerateResource.cache
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CoreCompileInputs.cache
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.csproj.CopyComplete
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.dll
+F:\DOT NET\Final\Spectrum\Spectrum.DatabaseContext\obj\Debug\Spectrum.DatabaseContext.pdb

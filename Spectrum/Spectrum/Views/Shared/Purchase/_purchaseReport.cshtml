@@ -1,0 +1,51 @@
+﻿@model Spectrum.Models.PurchaseViewModel
+
+<div class="card">
+    <div class="grid-header">
+        <div class="row">
+            <label class="col-md-10">Purchase Report</label>
+
+        </div>
+
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>SL</th>
+                    <th>Code</th>
+                    <th>ManufractureDate</th>
+                    <th>ExpireDate</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                    <th>MRP</th>
+                    <th>TotalMrp</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @{ int i = 1;}
+                @foreach (var purchase in Model.PurchaseDetailses)
+                {
+                    <tr>
+                        <td>@(i++)</td>
+                        <td>@purchase.Code</td>
+                        <td>@purchase.ManuFractureDateTime</td>
+                        <td>@purchase.ExpireDateTime</td>
+                        <td>@purchase.Quantity</td>
+                        <td>@purchase.UnitPrice</td>
+                        <td>@purchase.MRP</td>
+                        <td>@purchase.TotalPrice</td>
+
+
+
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+
+</div>

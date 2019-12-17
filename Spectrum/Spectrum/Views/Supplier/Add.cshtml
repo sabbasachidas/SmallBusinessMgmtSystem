@@ -1,0 +1,78 @@
+﻿﻿@model Spectrum.Models.SupplierViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Suppiler</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Code)</td>
+                    <td>@Html.TextBoxFor(c => c.Code, @Model.Code) </td>
+                    <td>@Html.ValidationMessageFor(c => c.Code)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Name)</td>
+                    <td>@Html.TextBoxFor(c => c.Name, @Model.Name) </td>
+                    <td>@Html.ValidationMessageFor(c => c.Name)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Address)</td>
+                    <td>@Html.TextBoxFor(c => c.Address, @Model.Address) </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Email)</td>
+                    <td>@Html.TextBoxFor(c => c.Email, @Model.Email) </td>
+                    <td>@Html.ValidationMessageFor(c => c.Email)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Contact)</td>
+                    <td>@Html.TextBoxFor(c => c.Contact, @Model.Contact) </td>
+                    <td>@Html.ValidationMessageFor(c => c.Contact)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.ContactPerson)</td>
+                    <td>@Html.TextBoxFor(c => c.ContactPerson, @Model.ContactPerson) </td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Save" /></td>
+                    <td>
+                        @if (ViewBag.Message != null)
+                        {
+                            <h3>
+                                <b>
+                                    @ViewBag.Message;
+                                </b>
+                            </h3>
+                        }
+
+                    </td>
+                </tr>
+
+            </table>
+        </form>
+        @{
+            Html.RenderPartial("~/Views/Shared/Supplier/_SupplierDetails.cshtml", Model);
+        }
+       
+
+    </div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
